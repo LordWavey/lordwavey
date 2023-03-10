@@ -1,6 +1,6 @@
 ### Hi there 👋, Lord Wavey
 #### Design and Development
-![Design and Development](https://yt3.googleusercontent.com/deQGckZNvsYWUOc0YlXr9Q_SrmyPOMGB-vKRvT_KmJHSSYOJNBqVGBa4YjZTE_JnsBb0jGmBNMs=s88-c-k-c0x00ffffff-no-rj)
+![Design and Development](https://github.com/LordWavey/lordwavey/blob/main/Squarebox_animated.gif)
 
 I'm Wxvey. I do content creation, design and development. 
 Enjoy learning languages and frameworks.
